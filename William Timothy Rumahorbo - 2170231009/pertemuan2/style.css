@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+}
+a link {
+    color: blue;
+}
+
+a:hover{
+    /* background-color: blue; */
+    text-decoration: underline;
+}
+a:visited {
+    color:black
+}
+a:active {
+    color:brown
+}
